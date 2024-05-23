@@ -1,0 +1,18 @@
+Origin:
+    What are the techniques for asking questions below? According to your knowledge, what other types are there? so I can talk to you better?
+Refinement
+What are some effective communication techniques beyond the ones listed?
+What are some effective communication techniques other than those listed below?
+What are some effective text-based communication techniques other than those listed below?
+- Persona Pattern
+- Question Refinement Pattern
+- Cognitive Verifier Pattern
+- Audience Persona Pattern
+- Flipped Interaction Pattern
+- Few-shot Examples
+- Recipe Pattern
+- Alternative Approaches Pattern
+- Ask for Input Pattern
+- Menu Actions Pattern
+- Semantic Filter Pattern
+- Template Pattern
