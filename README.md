@@ -33,6 +33,7 @@ Welcome to the "Artificial Intelligence with Python" project repository! This re
   - [Artificial Neural Networks](#artificial-neural-networks)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Deep Learning with Convolutional Neural Networks](#deep-learning-with-convolutional-neural-networks)
+  - [References](#references)
 
 ## Introduction to Artificial Intelligence
 
@@ -156,3 +157,15 @@ Learn about deep learning and convolutional neural networks for image analysis.
 ---
 
 Feel free to explore the chapters and dive into the code examples provided in each section. Contributions and feedback are welcome!
+
+## [References](https://github.com/orgs/PacktPublishing/repositories?language=&q=reinforcement+sort%3Astars&sort=)
+
+- [Python-Reinforcement-Learning-Projects](https://github.com/PacktPublishing/Python-Reinforcement-Learning-Projects)
+- [Mastering-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Mastering-Reinforcement-Learning-with-Python)
+- [Hands-On-Reinforcement-Learning-for-Games](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-for-Games)
+- [Hands-on-Reinforcement-Learning-with-PyTorch](https://github.com/PacktPublishing/Hands-on-Reinforcement-Learning-with-PyTorch)
+- [Deep-Reinforcement-Learning-Hands-On-Second-Edition](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
+- [Hands-On-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python)
+- [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
+- [Reinforcement-Learning-Algorithms-with-Python](https://github.com/PacktPublishing/Reinforcement-Learning-Algorithms-with-Python)
+- [Deep-Reinforcement-Learning-with-Python](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-with-Python)
